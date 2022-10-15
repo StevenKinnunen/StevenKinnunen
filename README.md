@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @StevenKinnunen
 - 👀 I’m interested in data analysis, data engineering and data science.
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on analytics and data science projects.
 - 📫 You can reach me at stevenjmkinnunen@gmail.com
 
